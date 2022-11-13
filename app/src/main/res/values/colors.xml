@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_color">#000532</color>
+    <color name="text_color">#FFFFFFFF</color>
+    <color name="tabText">#A126ED</color>
+    <color name="facebook_color">#5077C8</color>
+    <color name="gmail_color">#DB4437</color>
+    <color name="email_color">#FFC701</color>
+    <color name="phone_color">#303458</color>
+    <color name="horizontal_line">#4C4C4C</color>
+    <color name="bottom_bar_color">#191E46</color>
+    <color name="top_bar_color">#191E46</color>
+    <color name="top_bar_icon_color">#2A2E4D</color>
+    <color name="bottom_red">#EB5757</color>
+</resources>
